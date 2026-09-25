@@ -1095,7 +1095,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1603278496}
   m_Layer: 0
-  m_Name: ===== GENERAL =====
+  m_Name: GENERAL
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1418,7 +1418,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2729281212887052391}
   m_Layer: 0
-  m_Name: ===== ENEMIES =====
+  m_Name: 'ENEMIES '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1883,7 +1883,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2729281213170272051}
   m_Layer: 0
-  m_Name: ===== PICKUPS =====
+  m_Name: PICKUPS
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2353,7 +2353,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2729281213673322026}
   m_Layer: 0
-  m_Name: ===== LEVEL =====
+  m_Name: LEVEL
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2384,7 +2384,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2729281213735534851}
   m_Layer: 0
-  m_Name: ===== PLAYER =====
+  m_Name: 'PLAYER '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3905,7 +3905,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2729281214372112987}
   m_Layer: 0
-  m_Name: ===== PATHS =====
+  m_Name: PATHS
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
